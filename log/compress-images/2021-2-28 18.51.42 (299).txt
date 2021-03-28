@@ -1,0 +1,7 @@
+File from: [./temp/Angra_650x400]
+
+File to: [./compressed/Angra_650x400Angra_650x400]
+
+Compression algorithm: [-]
+
+Description: File does not exist!

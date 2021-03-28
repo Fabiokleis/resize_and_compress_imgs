@@ -1,8 +1,0 @@
-File from: [./temp/Angra_650x400.jpg]
-
-File to: [./compressed/_compressedAngra_650x400.jpg]
-
-Compression algorithm: [mozjpeg]
-
-Description: Error: Command failed: /home/raffam/node/scripts/img_resize/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile ./compressed/_compressedAngra_650x400.jpg ./temp/Angra_650x400.jpg
-Empty input file
